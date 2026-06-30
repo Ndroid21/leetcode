@@ -3,10 +3,12 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
