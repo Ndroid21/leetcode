@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ndroid21/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ndroid21/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
