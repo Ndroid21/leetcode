@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ndroid21/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ndroid21/leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Ndroid21/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Ndroid21/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
