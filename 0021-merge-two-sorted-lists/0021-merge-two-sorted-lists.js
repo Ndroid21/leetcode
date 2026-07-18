@@ -27,11 +27,7 @@ var mergeTwoLists = function (l1, l2) {
     }
 
     if (l1 || l2) {
-        if (l1) {
-            l3.next = l1;
-        } else {
-            l3.next = l2;
-        }
+        l3.next = l1 ? l1 : l2;
     }
 
     return ans.next;
