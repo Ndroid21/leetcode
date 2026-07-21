@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ndroid21/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
+| [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0058-length-of-last-word](https://github.com/Ndroid21/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Ndroid21/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Ndroid21/leetcode/tree/master/0771-jewels-and-stones) |
+| [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
