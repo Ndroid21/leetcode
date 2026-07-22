@@ -4,7 +4,7 @@ class Solution:
         self.dfs(nums, [], 0, result)
         return result
 
-    def dfs(self, nums, path, startIndex, result):
+    def dfs(self, nums: List[int], path: List[int], startIndex: int, result: List[int]) -> None:
         result.append(path.copy())
 
         for i in range(startIndex, len(nums)):
