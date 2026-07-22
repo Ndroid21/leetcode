@@ -6,6 +6,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ndroid21/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/Ndroid21/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ndroid21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ndroid21/leetcode/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ndroid21/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ndroid21/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Ndroid21/leetcode/tree/master/0707-design-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ndroid21/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
