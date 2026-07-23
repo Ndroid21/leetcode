@@ -12,19 +12,17 @@
  */
 var isBalanced = function (root) {
     const dfs = function (node) {
-        if (!node) return { balanced: true, depth: 0 };
+        if (!node) return [true, 0];
 
-        const left = dfs(node.left);
-        const right = dfs(node.right);
+        const [leftBalanced, leftDepth] = dfs(node.left);
+        const [rightBalanced, rightDepth] = dfs(node.right);
 
-        let currentNodeBalanced = false;
-        if (Math.abs(left.depth - right.depth) <= 1 && left.balanced && right.balanced) {
-            currentNodeBalanced = true;
-        }
+        let currentNodeBalanced = (Math.abs(leftDepth - rightDepth) <= 1 && leftBalanced && rightBalanced);
 
-        return { balanced: currentNodeBalanced, depth: Math.max(left.depth, right.depth) + 1 }
+        return [currentNodeBalanced, Math.max(leftDepth, rightDepth) + 1 ];
     }
 
-    const { balanced } = dfs(root);
+    const [ balanced ] = dfs(root);
+    
     return balanced;
 };
