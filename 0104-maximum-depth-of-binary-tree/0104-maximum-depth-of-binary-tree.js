@@ -13,9 +13,9 @@
 var maxDepth = function(root) {
     if (!root) return 0;
 
-    let maxDepth = 0;
+    let maxiDepth = 0;
     const traverse = function(curr, depth) {
-        maxDepth = Math.max(maxDepth, depth);
+        maxiDepth = Math.max(maxiDepth, depth);
 
         curr.left && traverse(curr.left, depth + 1);
         curr.right && traverse(curr.right, depth + 1);
@@ -23,5 +23,5 @@ var maxDepth = function(root) {
 
     traverse(root, 1);
 
-    return maxDepth;
+    return maxiDepth;
 };
