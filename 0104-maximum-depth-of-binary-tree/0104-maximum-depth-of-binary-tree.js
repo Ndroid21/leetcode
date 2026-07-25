@@ -11,10 +11,17 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-    if(!root) return 0;
+    if (!root) return 0;
 
-    const leftDepth = maxDepth(root.left);
-    const rightDepth = maxDepth(root.right);
+    let maxDepth = 0;
+    const traverse = function(curr, depth) {
+        maxDepth = Math.max(maxDepth, depth);
 
-    return 1 + Math.max(leftDepth, rightDepth);
+        curr.left && traverse(curr.left, depth + 1);
+        curr.right && traverse(curr.right, depth + 1);
+    }
+
+    traverse(root, 1);
+
+    return maxDepth;
 };
