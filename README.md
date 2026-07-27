@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ndroid21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ndroid21/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -151,6 +152,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ndroid21/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ndroid21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -162,6 +164,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ndroid21/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ndroid21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -182,6 +185,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ndroid21/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ndroid21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
