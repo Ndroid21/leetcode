@@ -11,7 +11,7 @@
  * @return {string[]}
  */
 var binaryTreePaths = function(root) {
-    const dfs = function (node) {
+    const dfs = function (node, path) {
         if(!node.left && !node.right) {
             path.push(node.val);
             result.push(path.join('->'));
@@ -20,14 +20,13 @@ var binaryTreePaths = function(root) {
         }
 
         path.push(node.val);
-        node.left && dfs(node.left);
-        node.right && dfs(node.right);
+        node.left && dfs(node.left, path);
+        node.right && dfs(node.right, path);
         path.pop();
     }
 
-    const path = [];
     const result = [];
-    dfs(root);
+    dfs(root, []);
 
     return result;
 };
