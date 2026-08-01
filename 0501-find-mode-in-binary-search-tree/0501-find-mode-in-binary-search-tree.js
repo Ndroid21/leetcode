@@ -11,29 +11,35 @@
  * @return {number[]}
  */
 var findMode = function(root) {
-    let map = new Map();
-    let modeCount = 0;
+    let prev = null;
+    let count = 0;
+    let max = 0;
+    let result = [];
 
-    const dfs = function (node) {
+    const dfs = function(node) {
         if(!node) return;
 
-        map.set(node.val, (map.get(node.val) || 0) + 1);
-        if(map.get(node.val) > modeCount) {
-            modeCount = map.get(node.val);
+        dfs(node.left);
+
+        if(prev !== null && prev.val === node.val) {
+            count++;
+        } else {
+            count = 1;
         }
 
-        dfs(node.left);
+        if(max < count) {
+            result = [node.val];
+            max = count;
+        } else if(max === count) {
+            result.push(node.val);
+        }
+
+        prev = node;
+
         dfs(node.right);
     }
 
     dfs(root);
-
-    const result = [];
-    for (let [key, val] of map) {
-        if(val === modeCount) {
-            result.push(key);
-        }
-    }
 
     return result;
 };
