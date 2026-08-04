@@ -3,18 +3,23 @@
  * @return {number[][]}
  */
 var subsets = function (nums) {
-    let result = [];
-
-    var dfs = function (path, startIndex) {
-        result.push([...path]);
-        for (let i = startIndex; i < nums.length; i++) {
-            path.push(nums[i]);
-            dfs(path, i + 1);
-            path.pop();
+    const dfs = function (choices, path) {
+        if (choices.length === 0) {
+            result.push([...path]);
+            return;
         }
+
+        const choice = choices[0];
+        const remainingChoices = choices.slice(1);
+
+        dfs(remainingChoices, path);
+        path.push(choice);
+        dfs(remainingChoices, path);
+        path.pop();
     }
 
-    dfs([], 0);
+    const result = [];
+    dfs(nums, []);
 
     return result;
 };
