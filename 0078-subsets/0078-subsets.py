@@ -1,13 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        result = []
-        self.dfs(nums, [], 0, result)
-        return result
+        def dfs(choices, path):
+            if len(choices) == 0:
+                result.append(path.copy())
+                return
+            
+            choice = choices[0]
+            remChoices = choices[1:]
 
-    def dfs(self, nums: List[int], path: List[int], startIndex: int, result: List[int]) -> None:
-        result.append(path.copy())
-
-        for i in range(startIndex, len(nums)):
-            path.append(nums[i])
-            self.dfs(nums, path, i+1, result)
+            dfs(remChoices, path)
+            path.append(choice)
+            dfs(remChoices, path)
             path.pop()
+        
+        result = []
+        dfs(nums, [])
+
+        return result
