@@ -43,6 +43,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ndroid21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ndroid21/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Ndroid21/leetcode/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Ndroid21/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Ndroid21/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Ndroid21/leetcode/tree/master/0771-jewels-and-stones) |
@@ -164,6 +166,7 @@
 | [0077-combinations](https://github.com/Ndroid21/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ndroid21/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ndroid21/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ndroid21/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Ndroid21/leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
