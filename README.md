@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/Ndroid21/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ndroid21/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ndroid21/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ndroid21/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ndroid21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ndroid21/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Ndroid21/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Ndroid21/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Ndroid21/leetcode/tree/master/0344-reverse-string) |
@@ -165,6 +167,7 @@
 | [0047-permutations-ii](https://github.com/Ndroid21/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ndroid21/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ndroid21/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ndroid21/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ndroid21/leetcode/tree/master/0216-combination-sum-iii) |
@@ -190,6 +193,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ndroid21/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ndroid21/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ndroid21/leetcode/tree/master/0101-symmetric-tree) |
@@ -250,5 +254,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
