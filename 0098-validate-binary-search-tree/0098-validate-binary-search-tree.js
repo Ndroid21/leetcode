@@ -11,13 +11,22 @@
  * @return {boolean}
  */
 var isValidBST = function (root) {
-    const isBST = function (curr, low, high) {
-        if (!curr) return true;
+    const dfs = function(node) {
+        if (!node) return true;
 
-        if ((low !== null && low >= curr.val) || (high !== null && high <= curr.val)) return false;
+        if (! dfs(node.left)) {
+            return false;
+        }
 
-        return isBST(curr.left, low, curr.val) && isBST(curr.right, curr.val, high);
+        if (prev !== null && prev >= node.val) {
+            return false;
+        }
+        prev = node.val;
+
+        return dfs(node.right);
     }
 
-    return isBST(root, null, null);
+    let prev = null;
+
+    return dfs(root);
 };
