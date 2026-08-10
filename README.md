@@ -191,6 +191,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0226-invert-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ndroid21/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -242,6 +245,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
