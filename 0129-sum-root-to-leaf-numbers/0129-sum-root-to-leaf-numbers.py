@@ -8,26 +8,13 @@ class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         def dfs(node, path):
             if node == None:
-                return
+                return 0
+
+            path = path * 10 + node.val
+            
             if node.left == None and node.right == None:
-                path.append(node.val)
-                result.append(path[:])
-                path.pop()
-                return
+                return path
+            
+            return dfs(node.left, path) + dfs(node.right, path)
 
-            path.append(node.val)
-            dfs(node.left, path)
-            dfs(node.right, path)
-            path.pop()
-
-        result = []
-        dfs(root, [])
-        sum = 0
-
-        for i in range(len(result)):
-            numbers = result[i][::-1]
-            number = 0
-            for j in range(len(numbers)):
-                number += int(numbers[j]) * (10 ** j)
-            sum += number
-        return sum
+        return dfs(root, 0)
