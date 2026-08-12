@@ -192,6 +192,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -248,6 +249,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -262,6 +264,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
