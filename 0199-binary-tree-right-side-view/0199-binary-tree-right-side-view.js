@@ -11,18 +11,20 @@
  * @return {number[]}
  */
 var rightSideView = function (root) {
+    if(!root) return [];
+
     const q = [root];
     const result = [];
 
     while (q.length > 0) {
         const n = q.length;
-        if (q[0]) result.push(q[0]?.val);
+        result.push(q[0].val);
 
         for (let i = 0; i < n; i++) {
             const node = q.shift();
 
-            if (node?.right) q.push(node.right);
-            if (node?.left) q.push(node.left);
+            if (node.right) q.push(node.right);
+            if (node.left) q.push(node.left);
         }
     }
 
