@@ -1,4 +1,3 @@
-from collections import deque
 """
 # Definition for a Node.
 class Node:
@@ -13,18 +12,18 @@ class Solution:
         if root == None:
             return None
 
-        q = deque([root])
+        stack = [root]
         clonedRootNode = Node(root.val)
         visited = {}
         visited[root] = clonedRootNode
 
-        while len(q) > 0:
-            curr = q.popleft()
+        while len(stack) > 0:
+            curr = stack.pop()
             clonedCurr = visited[curr]
 
             for n in curr.neighbors:
                 if n not in visited:
-                    q.append(n)
+                    stack.append(n)
                     visited[n] = Node(n.val)
                 clonedCurr.neighbors.append(visited[n])
         
