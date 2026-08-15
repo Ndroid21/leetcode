@@ -13,17 +13,18 @@
 var cloneGraph = function (root) {
     if (!root) return null;
 
-    const q = [root];
+    const stack = [root];
     const visited = new Map();
     const clonedRootNode = new Node(root.val);
     visited.set(root, clonedRootNode);
 
-    while (q.length > 0) {
-        const curr = q.shift();
+    while (stack.length > 0) {
+        const curr = stack.pop();
         const clonedNode = visited.get(curr);
+
         for (const n of curr.neighbors) {
             if (!visited.has(n)) {
-                q.push(n);
+                stack.push(n);
                 visited.set(n, new Node(n.val));
             }
             clonedNode.neighbors.push(visited.get(n));
