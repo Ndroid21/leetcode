@@ -13,34 +13,23 @@ class Solution:
                 adj_list[x].append(y)
                 adj_list[y].append(x)
         
-        def get_neighbor(node):
-            return adj_list[node]
+        def dfs(curr):
+            if curr == destination:
+                return True
 
-        def bfs(root, target):
-            q = deque()
-            q.append(root)
-            visited = set()
-            visited.add(root)
+            visited.add(curr)
 
-            while len(q) > 0:
-                n = len(q)
-
-                for _ in range(n):
-                    curr = q.popleft()
-
-                    if curr == target:
-                        return True
-
-                    for neighbor in get_neighbor(curr):
-                        if neighbor in visited:
-                            continue
-                        
-                        q.append(neighbor)
-                        visited.add(neighbor)
+            for neighbor in adj_list[curr]:
+                if neighbor in visited:
+                    continue
+                
+                if(dfs(neighbor)):
+                    return True
             
             return False
 
         adj_list = {}
         generate_adjency_list(adj_list)
+        visited = set()
 
-        return bfs(source, destination)
+        return dfs(source)
