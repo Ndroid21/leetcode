@@ -19,6 +19,7 @@
 | [0216-combination-sum-iii](https://github.com/Ndroid21/leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ndroid21/leetcode/tree/master/0283-move-zeroes) |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ndroid21/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@
 | [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Ndroid21/leetcode/tree/master/0257-binary-tree-paths) |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Ndroid21/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Ndroid21/leetcode/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
@@ -74,6 +76,7 @@
 | [0047-permutations-ii](https://github.com/Ndroid21/leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -120,6 +123,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -219,6 +223,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Ndroid21/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ndroid21/leetcode/tree/master/0257-binary-tree-paths) |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/Ndroid21/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -290,6 +295,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ndroid21/leetcode/tree/master/0133-clone-graph) |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ndroid21/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -300,4 +306,16 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
