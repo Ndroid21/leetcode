@@ -8,12 +8,15 @@ class Solution:
             return True
 
         def dfs(start, path):
-            if start == len(s) and len(path) == 4:
-                result.append(".".join(path))
+            if start == len(s):
+                if len(path) == 4:
+                    result.append(".".join(path))
+                    return
+
+            if len(path) == 4:
                 return
 
-            end = start
-            while end < start + 3 and start < len(s):
+            for end in range(start, min(start + 3, len(s))):
                 segment = s[start : end + 1]
                 if isValid(segment):
                     path.append(segment)
