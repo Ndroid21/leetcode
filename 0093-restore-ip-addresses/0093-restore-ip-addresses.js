@@ -4,10 +4,14 @@
  */
 var restoreIpAddresses = function (s) {
     const dfs = function (start, path) {
-        if (start === s.length && path.length === 4) {
-            result.push(path.join("."));
-            return;
+        if (start === s.length) {
+            if (path.length === 4) {
+                result.push(path.join("."));
+                return;
+            }
         }
+
+        if (path.length === 4) return;
 
         for (let end = start; end < start + 3 && start < s.length; end++) {
             let digits = s.substring(start, end + 1);
