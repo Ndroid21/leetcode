@@ -3,27 +3,27 @@
  * @return {number}
  */
 var countArrangement = function (n) {
-    const result = [];
+    let count = 0;
+    const visited = Array(n + 1).fill(false);
 
-    const dfs = function (path) {
-        if (path.length === n) {
-            result.push([...path]);
+    const dfs = function (index) {
+        if (index === n + 1) {
+            count++;
             return;
         }
 
         for (let perm = 1; perm <= n; perm++) {
-            if (!path.includes(perm) && isArrangementBeautiful(perm, path.length + 1)) {
-                path.push(perm);
-                dfs(path);
-                path.pop();
+            if (!visited[perm] && isArrangementBeautiful(perm, index)) {
+                visited[perm] = true;
+                dfs(index + 1);
+                visited[perm] = false;
             }
         }
     }
 
-    dfs([]);
-    // console.log(result);
+    dfs(1);
 
-    return result.length;
+    return count;
 };
 
 var isArrangementBeautiful = function (arrangement, i) {
