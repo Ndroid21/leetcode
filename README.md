@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -328,4 +329,8 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
