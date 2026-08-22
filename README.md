@@ -97,6 +97,7 @@
 | [0002-add-two-numbers](https://github.com/Ndroid21/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ndroid21/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
