@@ -1,30 +1,30 @@
 class Solution:
     def numsSameConsecDiff(self, n: int, k: int) -> List[int]:
-        def isValid(arr):
-            digit = arr[0]
-
-            if digit == 0:
-                return False
-
-            for i in range(1, len(arr)):
-                if abs(arr[i] - digit) != k:
-                    return False
-                digit = arr[i]
-
-            return True
+        result = []
 
         def dfs(path):
             if len(path) == n:
-                result.append(int("".join(map(str, path))))
+                number = int("".join(map(str, path)))
+                result.append(number)
                 return
 
-            for i in range(0, 10):
-                path.append(i)
-                if isValid(path):
-                    dfs(path)
+            prev = path[-1]
+
+            next_digit = prev + k
+
+            if next_digit <= 9:
+                path.append(next_digit)
+                dfs(path)
                 path.pop()
 
-        result = []
-        dfs([])
+            next_digit = prev - k
+
+            if next_digit >= 0 and next_digit != prev:
+                path.append(next_digit)
+                dfs(path)
+                path.pop()
+
+        for digit in range(1, 10):
+            dfs([digit])
 
         return result
