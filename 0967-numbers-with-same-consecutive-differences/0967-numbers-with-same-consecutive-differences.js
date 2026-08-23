@@ -4,37 +4,35 @@
  * @return {number[]}
  */
 var numsSameConsecDiff = function (n, k) {
-    const isValidNumber = function (arr) {
-        let digit = arr[0];
-
-        if (digit === 0) return false;
-
-        for (let i = 1; i < arr.length; i++) {
-            if (Math.abs(arr[i] - digit) !== k) return false;
-
-            digit = arr[i];
-        }
-
-        return true;
-    }
-
     const dfs = function (path) {
         if (path.length === n) {
             result.push(Number(path.join("")));
             return;
         }
 
-        for (let i = 0; i <= 9; i++) {
-            path.push(i);
-            if (isValidNumber(path)) {
-                dfs(path);
-            }
+        const prev = path[path.length - 1];
+
+        let nextDigit = prev + k;
+
+        if (nextDigit <= 9) {
+            path.push(nextDigit);
+            dfs(path);
+            path.pop();
+        }
+
+        nextDigit = prev - k;
+
+        if (nextDigit >= 0 && nextDigit != prev) {
+            path.push(nextDigit);
+            dfs(path);
             path.pop();
         }
     }
 
     const result = [];
-    dfs([]);
+    for (let digit = 1; digit < 10; digit++) {
+        dfs([digit]);
+    }
 
     return result;
 
