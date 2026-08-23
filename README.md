@@ -73,6 +73,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Ndroid21/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Ndroid21/leetcode/tree/master/0771-jewels-and-stones) |
+| [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
@@ -97,6 +98,7 @@
 | [0002-add-two-numbers](https://github.com/Ndroid21/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
+| [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ndroid21/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -336,4 +338,12 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
