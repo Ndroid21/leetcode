@@ -3,46 +3,27 @@
  * @return {string[]}
  */
 var generateParenthesis = function (n) {
-    const isValid = function (series) {
-        let open = 0, close = 0;
-        for (let i = 0; i < 2 * n; i++) {
-            if (series[i]) {
-                if (series[i] === '(') {
-                    open++;
-                } else {
-                    close++;
-                }
-            }
-        }
-
-        if (open > n || close > n || close > open) {
-            return false;
-        }
-
-        return true;
-    }
-
-    const dfs = function (path) {
+    const dfs = function (path, open, close) {
         if (path.length === 2 * n) {
             result.push(path.join(""));
             return;
         }
 
-        path.push('(');
-        if (isValid(path)) {
-            dfs(path);
+        if (open < n) {
+            path.push('(');
+            dfs(path, open + 1, close);
+            path.pop();
         }
-        path.pop();
 
-        path.push(')');
-        if (isValid(path)) {
-            dfs(path);
+        if (close < open) {
+            path.push(')');
+            dfs(path, open, close + 1);
+            path.pop();
         }
-        path.pop();
     }
 
     const result = [];
-    dfs(['(']);
+    dfs([], 0, 0);
 
     return result;
 };
