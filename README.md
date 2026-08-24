@@ -45,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ndroid21/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ndroid21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ndroid21/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ndroid21/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ndroid21/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ndroid21/leetcode/tree/master/0093-restore-ip-addresses) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ndroid21/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ndroid21/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ndroid21/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ndroid21/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ndroid21/leetcode/tree/master/0046-permutations) |
@@ -346,4 +349,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ndroid21/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
