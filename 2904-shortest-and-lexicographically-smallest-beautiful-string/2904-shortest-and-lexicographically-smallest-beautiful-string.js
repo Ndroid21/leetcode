@@ -13,9 +13,12 @@ var shortestBeautifulSubstring = function (s, k) {
             ones++;
         }
 
-        let window = s.slice(left, right + 1);
-
         while (ones === k) {
+            while (s[left] === '0') {
+                left++;
+            }
+
+            let window = s.slice(left, right + 1);
             if (
                 ans === "" ||
                 window.length < ans.length ||
@@ -23,9 +26,9 @@ var shortestBeautifulSubstring = function (s, k) {
             ) {
                 ans = window;
             }
-            if (s[left] === '1') ones--;
+
+            ones--;
             left++;
-            window = s.slice(left, right + 1);
         }
 
     }
