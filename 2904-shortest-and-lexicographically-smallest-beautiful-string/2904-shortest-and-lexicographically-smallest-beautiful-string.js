@@ -6,10 +6,16 @@
 var shortestBeautifulSubstring = function (s, k) {
     let ans = "";
     let left = 0;
-    let window = s.slice(left, k);
+    let ones = 0;
 
-    for (let right = k; right < s.length + 1; right++) {
-        while (isValid(window, k)) {
+    for (let right = 0; right < s.length; right++) {
+        if (s[right] === '1') {
+            ones++;
+        }
+
+        let window = s.slice(left, right + 1);
+
+        while (ones === k) {
             if (
                 ans === "" ||
                 window.length < ans.length ||
@@ -17,23 +23,12 @@ var shortestBeautifulSubstring = function (s, k) {
             ) {
                 ans = window;
             }
+            if (s[left] === '1') ones--;
             left++;
-            window = s.slice(left, right);
+            window = s.slice(left, right + 1);
         }
 
-        window = s.slice(left, right + 1);
     }
 
     return ans;
 };
-
-var isValid = function (s, k) {
-    let count = 0;
-    for (let i = 0; i < s.length; i++) {
-        if (s[i] === '1') {
-            count++;
-        }
-    }
-
-    return count === k;
-}
