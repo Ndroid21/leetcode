@@ -25,6 +25,7 @@
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ndroid21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -105,6 +106,7 @@
 | [0002-add-two-numbers](https://github.com/Ndroid21/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ndroid21/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -121,6 +123,7 @@
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ndroid21/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -367,5 +371,10 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ndroid21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
