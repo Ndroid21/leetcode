@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Ndroid21/leetcode/tree/master/0283-move-zeroes) |
 | [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Ndroid21/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ndroid21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Stack
 |  |
@@ -122,6 +124,7 @@
 | [0136-single-number](https://github.com/Ndroid21/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
@@ -199,6 +202,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ndroid21/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Ndroid21/leetcode/tree/master/0257-binary-tree-paths) |
+| [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ndroid21/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -346,6 +350,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Simulation
 |  |
