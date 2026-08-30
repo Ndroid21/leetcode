@@ -7,7 +7,7 @@ var minimumDeletions = function (nums) {
     let minIdx = 0;
     let maxIdx = 0;
 
-    for (let i = 1; i < nums.length; i++) {
+    for (let i = 1; i < n; i++) {
         if (nums[minIdx] > nums[i]) {
             minIdx = i;
         }
