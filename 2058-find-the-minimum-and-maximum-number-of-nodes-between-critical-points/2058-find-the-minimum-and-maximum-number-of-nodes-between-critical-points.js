@@ -14,8 +14,7 @@ var nodesBetweenCriticalPoints = function (head) {
     let lastCriticalPoint = -1;
     let currPos = 0;
 
-    let min = Infinity, max = -Infinity;
-    let ans = [min, max];
+    let ans = [Infinity, -Infinity];
 
     while (head && head.next && head.next.next) {
         const prev = head.val;
