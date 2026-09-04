@@ -4,22 +4,22 @@
  * @return {number}
  */
 var firstStableIndex = function (nums, k) {
+    const n = nums.length
     let max = nums[0];
-    let min = max;
-    let ans = -1;
+    let min = new Array(n).fill(0);
+
+    min[n - 1] = nums[n - 1];
+    for (let i = n - 2; i >= 0; i--) {
+        min[i] = Math.min(min[i + 1], nums[i]);
+    }
 
     for (let i = 0; i < nums.length; i++) {
         max = Math.max(max, nums[i]);
-        min = nums[i];
-        for (let j = i; j < nums.length; j++) {
-            min = Math.min(min, nums[j]);
-        }
 
-        if (max - min <= k) {
-            ans = i;
-            break;
+        if (max - min[i] <= k) {
+            return i;
         }
     }
 
-    return ans;
+    return -1;
 };
