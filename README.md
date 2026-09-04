@@ -33,6 +33,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ndroid21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ndroid21/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ndroid21/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ndroid21/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -396,4 +397,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Ndroid21/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
