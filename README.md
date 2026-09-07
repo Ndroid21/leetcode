@@ -55,6 +55,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ndroid21/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
+| [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ndroid21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ndroid21/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ndroid21/leetcode/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ndroid21/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ndroid21/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ndroid21/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ndroid21/leetcode/tree/master/0101-symmetric-tree) |
@@ -298,6 +301,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ndroid21/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ndroid21/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ndroid21/leetcode/tree/master/0101-symmetric-tree) |
@@ -330,6 +334,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
