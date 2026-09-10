@@ -255,6 +255,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ndroid21/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ndroid21/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ndroid21/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ndroid21/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
 | ------- |
