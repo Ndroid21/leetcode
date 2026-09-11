@@ -31,6 +31,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ndroid21/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ndroid21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ndroid21/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ndroid21/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -110,6 +111,7 @@
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Ndroid21/leetcode/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/Ndroid21/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ndroid21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ndroid21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -153,6 +155,7 @@
 | [0206-reverse-linked-list](https://github.com/Ndroid21/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ndroid21/leetcode/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -411,6 +414,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ndroid21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
