@@ -369,6 +369,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/Ndroid21/leetcode/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Ndroid21/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ndroid21/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
