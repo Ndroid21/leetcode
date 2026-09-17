@@ -37,6 +37,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ndroid21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ndroid21/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ndroid21/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ndroid21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Ndroid21/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ndroid21/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -362,6 +363,7 @@
 | [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Ndroid21/leetcode/tree/master/0835-image-overlap) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ndroid21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | [0997-find-the-town-judge](https://github.com/Ndroid21/leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Ndroid21/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ndroid21/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ndroid21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
