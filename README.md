@@ -95,6 +95,7 @@
 | [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ndroid21/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ndroid21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ndroid21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -407,6 +408,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ndroid21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
