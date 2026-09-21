@@ -6,7 +6,6 @@ class Solution:
         adj_list = {}
         in_degree = {}
         q = deque()
-        count = 0
         result = []
 
         for i in range(numCourses):
@@ -26,7 +25,6 @@ class Solution:
         while q:
             node = q.popleft()
             result.append(node)
-            count += 1
 
             for neighbor in adj_list.get(node):
                 in_degree[neighbor] = in_degree.get(neighbor) - 1
@@ -34,4 +32,4 @@ class Solution:
                 if in_degree.get(neighbor) == 0:
                     q.append(neighbor)
 
-        return result if count == numCourses else []
+        return result if len(result) == numCourses else []
