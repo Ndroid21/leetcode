@@ -30,6 +30,7 @@
 | [0835-image-overlap](https://github.com/Ndroid21/leetcode/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/Ndroid21/leetcode/tree/master/0997-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/Ndroid21/leetcode/tree/master/1046-last-stone-weight) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ndroid21/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ndroid21/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -183,6 +184,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ndroid21/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Ndroid21/leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
