@@ -5,26 +5,22 @@
  */
 var topKFrequent = function (nums, k) {
     const heap = new MyMinHeap();
-    nums.sort((a, b) => a - b);
-    let i = 0;
+    const map = new Map();
 
-    while (i < nums.length) {
-        let key = nums[i];
-        let count = 1;
-        let j = i + 1;
-
-        while (nums[j] === key) {
-            count++;
-            j++;
-        }
-
-        i = j;
-        heap.push(new HeapItem(key, -count));
+    for (let i = 0; i < nums.length; i++) {
+        map.set(nums[i], (map.get(nums[i]) ?? 0) + 1);
     }
 
+    for (let [key, val] of map) {
+        heap.push(new HeapItem(key, val));
 
-    const result = [];
-    for (let i = 0; i < k; i++) {
+        if (heap.size() > k) {
+            heap.pop();
+        }
+    }
+
+    let result=[];
+    for(let i=0; i<k; i++) {
         result.push(heap.pop());
     }
 
@@ -92,6 +88,10 @@ class MyMinHeap {
             [this.heap[idx], this.heap[min]] = [this.heap[min], this.heap[idx]];
             idx = min;
         }
+    }
+
+    size() {
+        return this.heap.length;
     }
 
 }
