@@ -4,18 +4,27 @@
  * @return {number}
  */
 var kthSmallest = function (matrix, k) {
-    const n = matrix.length;
-    const maxHeap = new MaxPriorityQueue();
+    const heap = new MinPriorityQueue(x => x.val);
 
-    for (let i = 0; i < n; i++) {
-        for (let j = 0; j < n; j++) {
-            maxHeap.push(matrix[i][j]);
+    for (let i = 0; i < matrix.length; i++) {
+        heap.push({
+            val: matrix[i][0],
+            row: i,
+            col: 0
+        });
+    }
 
-            if (maxHeap.size() > k) {
-                maxHeap.pop();
-            }
+    for (let i = 0; i < k - 1; i++) {
+        let { row, col, val } = heap.pop();
+
+        if (col < matrix[row].length - 1) {
+            heap.push({
+                val: matrix[row][col + 1],
+                row,
+                col: col + 1
+            })
         }
     }
 
-    return maxHeap.front()
+    return heap.pop().val;
 };
