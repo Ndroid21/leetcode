@@ -3,26 +3,22 @@
  * @return {boolean}
  */
 var isValid = function (s) {
-    const stack = [];
-    const map = {
+    const brackets = {
         ')': '(',
         ']': '[',
         '}': '{'
-    };
+    }
+    const stack = [];
 
-    for (let char of s) {
-        // If closing bracket
-        if (char in map) {
-            // Stack empty OR top doesn't match
-            if (stack.length === 0 || stack.pop() !== map[char]) {
-                return false;
-            }
+    for (let i = 0; i < s.length; i++) {
+        if (s[i] === '(' || s[i] === '[' || s[i] === '{') {
+            stack.push(s[i]);
         } else {
-            // Opening bracket
-            stack.push(char);
+            let top = stack[stack.length - 1];
+            if (top !== brackets[s[i]]) return false;
+            stack.pop();
         }
     }
 
-    // Stack should be empty if valid
-    return stack.length === 0;
-}
+    return stack.length > 0 ? false : true;
+};
