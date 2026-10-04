@@ -3,31 +3,27 @@
  * @return {string[]}
  */
 var findRelativeRanks = function (score) {
-    const n = score.length;
-    const map = new Map();
     const pq = new MaxPriorityQueue();
+    const rank = new Map();
 
-    for (let i = 0; i < n; i++) {
-        pq.push(score[i]);
+    const medals = [
+        "Gold Medal",
+        "Silver Medal",
+        "Bronze Medal"
+    ];
+
+    for (const s of score) {
+        pq.push(s);
     }
 
-    const topThree = {
-        0: "Gold Medal",
-        1: "Silver Medal",
-        2: "Bronze Medal"
+    for (let i = 0; i < score.length; i++) {
+        const s = pq.pop();
+
+        rank.set(
+            s,
+            i < 3 ? medals[i] : String(i + 1)
+        );
     }
 
-    const pqSize = pq.size();
-    for (let i = 0; i < pqSize; i++) {
-        const item = pq.pop();
-        const value = i < 3 ? topThree[i] : String(i + 1);
-        map.set(item, value);
-    };
-
-    const ans = [];
-    for (let i = 0; i < n; i++) {
-        ans.push(map.get(score[i]));
-    }
-
-    return ans;
+    return score.map(s => rank.get(s));
 };
