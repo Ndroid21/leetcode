@@ -3,19 +3,21 @@
  * @return {number}
  */
 var scoreOfParentheses = function (s) {
-    let total = 0;
-    let depth = 0;
+    const stack = [0];
 
-    for (let i = 0; i < s.length; i++) {
-        if (s[i] === '(') {
-            depth++;
+    for(let c of s) {
+        if (c === '(') {
+            stack.push(0);
         } else {
-            depth--;
-            if (s[i - 1] === '(') {
-                total += 1 << depth;
+            const v = stack.pop();
+
+            if(v === 0) {
+                stack.push(stack.pop() + 1);
+            } else {
+                stack.push(stack.pop() + 2 * v);
             }
         }
     }
 
-    return total;
+    return stack.pop();
 };
