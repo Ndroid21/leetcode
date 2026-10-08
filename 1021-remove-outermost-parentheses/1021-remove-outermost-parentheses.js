@@ -4,15 +4,16 @@
  */
 var removeOuterParentheses = function (s) {
     let balance = 0;
-    let result = [];
+    const stack = [];
+    const result = [];
 
-    for (let ch of s) {
-        if (ch === '(') {
-            if (balance > 0) result.push(ch);
-            balance++;
+    for (let c of s) {
+        if (c === '(') {
+            stack.push('(');
+            if (stack.length > 1) result.push(c);
         } else {
-            balance--;
-            if (balance > 0) result.push(ch);
+            if (stack.length > 1) result.push(c);
+            stack.pop();
         }
     }
 
