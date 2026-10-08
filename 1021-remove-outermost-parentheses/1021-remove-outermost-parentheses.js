@@ -3,7 +3,6 @@
  * @return {string}
  */
 var removeOuterParentheses = function (s) {
-    let balance = 0;
     const stack = [];
     const result = [];
 
