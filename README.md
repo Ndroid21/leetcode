@@ -38,6 +38,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ndroid21/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ndroid21/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ndroid21/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -210,6 +211,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ndroid21/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Ndroid21/leetcode/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ndroid21/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
@@ -458,6 +460,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ndroid21/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ndroid21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
