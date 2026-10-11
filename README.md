@@ -39,6 +39,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ndroid21/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ndroid21/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ndroid21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Ndroid21/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ndroid21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -494,6 +495,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ndroid21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ndroid21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
