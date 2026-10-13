@@ -3,27 +3,18 @@
  * @return {number}
  */
 var maxAlternatingSum = function (nums) {
-    const minHeap = new MinPriorityQueue();
-    const maxHeap = new MaxPriorityQueue();
-    const n = nums.length;
-    const k = n % 2 === 0 ? Math.floor(n / 2) : Math.floor(n / 2) + 1;
+    const squares = nums.map(a => a ** 2);
+    squares.sort((a, b) => b - a);
+
+    const k = Math.ceil(nums.length / 2);
     let sum = 0;
 
     for (let i = 0; i < nums.length; i++) {
-        minHeap.push(nums[i] ** 2);
-
-        if (minHeap.size() > k) {
-            const out = minHeap.pop();
-            maxHeap.push(out);
+        if (i < k) {
+            sum += squares[i];
+        } else {
+            sum -= squares[i];
         }
-    }
-
-    for (let i = 0; i < k; i++) {
-        sum += minHeap.pop();
-    }
-
-    for (let i = 0; i < n - k; i++) {
-        sum -= maxHeap.pop();
     }
 
     return sum;
