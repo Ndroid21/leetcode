@@ -46,6 +46,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Ndroid21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ndroid21/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ndroid21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ndroid21/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ndroid21/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ndroid21/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ndroid21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -134,6 +135,7 @@
 | [0506-relative-ranks](https://github.com/Ndroid21/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Ndroid21/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ndroid21/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -479,6 +481,7 @@
 | [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ndroid21/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ndroid21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ndroid21/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
