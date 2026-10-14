@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Ndroid21/leetcode/tree/master/0283-move-zeroes) |
 | [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Ndroid21/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ndroid21/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ndroid21/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
@@ -213,6 +214,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ndroid21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/Ndroid21/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Ndroid21/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ndroid21/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ndroid21/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Ndroid21/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Ndroid21/leetcode/tree/master/0692-top-k-frequent-words) |
