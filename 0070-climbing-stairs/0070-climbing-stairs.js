@@ -3,24 +3,17 @@
  * @return {number}
  */
 var climbStairs = function (n) {
-    let dp = {}
+    let dp = {};
+
     const dfs = function (rem) {
-        if (dp[rem]) {
-            return dp[rem];
-        }
+        if (dp[rem]) return dp[rem];
+        if (rem <= 0) return 0;
+        if (rem === 1 || rem === 2) return rem;
 
-        if (rem < 0) {
-            return 0;
-        }
+        let left = dfs(rem - 1);
+        let right = dfs(rem - 2);
 
-        if (rem === 0) {
-            return 1;
-        }
-
-        let leftSum = dfs(rem - 1);
-        let rightSum = dfs(rem - 2);
-
-        dp[rem] = leftSum + rightSum;
+        dp[rem] = left + right;
 
         return dp[rem];
     }
