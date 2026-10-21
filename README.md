@@ -77,6 +77,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ndroid21/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ndroid21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Ndroid21/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ndroid21/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ndroid21/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Ndroid21/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
@@ -582,4 +584,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ndroid21/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
