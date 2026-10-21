@@ -3,20 +3,11 @@
  * @return {number}
  */
 var climbStairs = function (n) {
-    let dp = {};
+    let dp = [0, 1, 2];
 
-    const dfs = function (rem) {
-        if (dp[rem]) return dp[rem];
-        if (rem <= 0) return 0;
-        if (rem === 1 || rem === 2) return rem;
-
-        let left = dfs(rem - 1);
-        let right = dfs(rem - 2);
-
-        dp[rem] = left + right;
-
-        return dp[rem];
+    for (let i = 3; i <= n; i++) {
+        dp[i] = dp[i - 1] + dp[i - 2];
     }
 
-    return dfs(n);
+    return dp[n];
 };
