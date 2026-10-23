@@ -34,6 +34,7 @@
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0692-top-k-frequent-words](https://github.com/Ndroid21/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Ndroid21/leetcode/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/Ndroid21/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ndroid21/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -86,6 +87,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Ndroid21/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
