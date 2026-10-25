@@ -40,6 +40,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Ndroid21/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/Ndroid21/leetcode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Ndroid21/leetcode/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Ndroid21/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ndroid21/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ndroid21/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -380,6 +381,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ndroid21/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/Ndroid21/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ndroid21/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ndroid21/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -402,6 +404,7 @@
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ndroid21/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ndroid21/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1254-number-of-closed-islands](https://github.com/Ndroid21/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ndroid21/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ndroid21/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -457,6 +460,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ndroid21/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Ndroid21/leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Ndroid21/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ndroid21/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ndroid21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
@@ -475,6 +479,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Ndroid21/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ndroid21/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
