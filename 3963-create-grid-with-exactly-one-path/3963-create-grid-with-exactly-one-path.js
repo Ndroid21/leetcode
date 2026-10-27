@@ -5,24 +5,14 @@
  */
 var createGrid = function (m, n) {
     const result = Array.from({ length: m }, () => Array(n).fill("#"));
-    let i = 0, j = 0;
 
-    while (i < m) {
-        result[i][j] = ".";
-
-        if (j + 1 < n) {
-            j += 1
-            result[i][j] = ".";
-        }
-
-        if (i + 1 < m || j + 1 === n) {
-            i += 1;
-        }
+    for (let j = 0; j < n; j++) {
+        result[0][j] = ".";
     }
 
     for (let i = 0; i < m; i++) {
-        result[i] = result[i].join("")
+        result[i][n - 1] = ".";
     }
 
-    return result;
+    return result.map(row => row.join(""));
 };
