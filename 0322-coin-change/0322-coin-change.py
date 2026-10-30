@@ -1,25 +1,14 @@
 class Solution:
     def coinChange(self, coins: list[int], amount: int) -> int:
         n = len(coins)
-        dp = {}
+        dp = [math.inf] * (amount + 1)
 
-        def dfs(rem_amount):
-            if rem_amount == 0:
-                return 0
-            if rem_amount < 0:
-                return -1
+        dp[0] = 0
 
-            if rem_amount in dp:
-                return dp[rem_amount]
-
-            min_coins = math.inf
+        for rem_amt in range(1, amount + 1):
             for i in range(n):
-                res = dfs(rem_amount - coins[i])
-                if res != -1:
-                    min_coins = min(min_coins, res + 1)
+                curr = rem_amt - coins[i]
+                if curr >= 0:
+                    dp[rem_amt] = min(dp[rem_amt], 1 + dp[curr])
 
-            dp[rem_amount] = -1 if min_coins == math.inf else min_coins
-
-            return dp[rem_amount]
-
-        return dfs(amount)
+        return -1 if dp[amount] == math.inf else dp[amount]
