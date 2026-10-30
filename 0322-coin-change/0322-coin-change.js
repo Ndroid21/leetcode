@@ -5,26 +5,17 @@
  */
 var coinChange = function (coins, amount) {
     const n = coins.length;
-    const dp = {}
+    const dp = new Array(amount + 1).fill(Infinity);
+    dp[0] = 0;
 
-    const dfs = (remAmt) => {
-        if (remAmt === 0) return 0;
-        if (remAmt < 0) return -1;
-
-        if (remAmt in dp) return dp[remAmt];
-        
-        let minCoins = Infinity;
+    for (remAmt = 1; remAmt <= amount; remAmt++) {
         for (let i = 0; i < n; i++) {
-            rs = dfs(remAmt - coins[i]);
-            if (rs !== -1) {
-                minCoins = Math.min(minCoins, rs + 1);
+            let curr = remAmt - coins[i];
+            if (curr >= 0) {
+                dp[remAmt] = Math.min(dp[remAmt], 1 + dp[curr]);
             }
         }
-
-        dp[remAmt] = minCoins === Infinity ? -1 : minCoins;
-
-        return dp[remAmt];
     }
 
-    return dfs(amount)
+    return dp[amount] === Infinity ? -1 : dp[amount];
 };
