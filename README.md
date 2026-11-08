@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/Ndroid21/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ndroid21/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ndroid21/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Ndroid21/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Ndroid21/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ndroid21/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ndroid21/leetcode/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ndroid21/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ndroid21/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ndroid21/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ndroid21/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ndroid21/leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Ndroid21/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -246,6 +248,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ndroid21/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ndroid21/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ndroid21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ndroid21/leetcode/tree/master/0347-top-k-frequent-elements) |
