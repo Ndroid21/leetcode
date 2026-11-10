@@ -3,18 +3,18 @@
  * @return {number}
  */
 var maxProduct = function (nums) {
-    let maxSoFar = nums[0];
-    let minSoFar = nums[0];
-    let totalMax = nums[0];
+    let n = nums.length;
+    let ltrProd = rtlProd = 1;
+    let mx = -Infinity;
 
-    for (let i = 1; i < nums.length; i++) {
-        num1 = maxSoFar * nums[i];
-        num2 = minSoFar * nums[i];
-        maxSoFar = Math.max(nums[i], num1, num2);
-        minSoFar = Math.min(nums[i], num1, num2);
+    for (let i = 0; i < n; i++) {
+        ltrProd = ltrProd * nums[i];
+        rtlProd = rtlProd * nums[n - i - 1];
+        mx = Math.max(mx, ltrProd, rtlProd);
 
-        totalMax = Math.max(totalMax, maxSoFar);
+        if (ltrProd === 0) ltrProd = 1;
+        if (rtlProd === 0) rtlProd = 1;
     }
 
-    return totalMax;
+    return mx;
 };
