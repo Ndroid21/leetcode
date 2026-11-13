@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ndroid21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ndroid21/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ndroid21/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Ndroid21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Ndroid21/leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Ndroid21/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -106,6 +107,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ndroid21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ndroid21/leetcode/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ndroid21/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0416-partition-equal-subset-sum](https://github.com/Ndroid21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Ndroid21/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Ndroid21/leetcode/tree/master/0647-palindromic-substrings) |
@@ -641,6 +643,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ndroid21/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Ndroid21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -657,4 +660,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ndroid21/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ndroid21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
