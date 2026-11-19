@@ -12,7 +12,6 @@ var canJump = function (nums) {
 
         if (dp[start] !== undefined) return dp[start];
 
-        let ans = false;
         for (let i = 1; i <= nums[start]; i++) {
             if (dfs(start + i)) {
                 dp[start] = true;
