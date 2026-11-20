@@ -3,25 +3,13 @@
  * @return {boolean}
  */
 var canJump = function (nums) {
+    let far = 0;
     const end = nums.length - 1;
 
-    const dp = {};
-
-    const dfs = (start) => {
-        if (start === end) return true;
-
-        if (dp[start] !== undefined) return dp[start];
-
-        for (let i = 1; i <= nums[start]; i++) {
-            if (dfs(start + i)) {
-                dp[start] = true;
-                return true;
-            }
-        }
-
-        dp[start] = false;
-        return false;
+    for (let i = 0; i <= end; i++) {
+        if (i > far) return false;
+        far = Math.max(far, i + nums[i]);
     }
 
-    return dfs(0);
+    return far >= end;
 };
