@@ -53,6 +53,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ndroid21/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ndroid21/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ndroid21/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ndroid21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ndroid21/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ndroid21/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -120,6 +121,7 @@
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Ndroid21/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ndroid21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Ndroid21/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ndroid21/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ndroid21/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ndroid21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ndroid21/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ndroid21/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
