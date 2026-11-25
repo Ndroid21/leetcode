@@ -121,6 +121,7 @@
 | [0526-beautiful-arrangement](https://github.com/Ndroid21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Ndroid21/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ndroid21/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/Ndroid21/leetcode/tree/master/0887-super-egg-drop) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ndroid21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
@@ -225,6 +226,7 @@
 | [0268-missing-number](https://github.com/Ndroid21/leetcode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ndroid21/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0836-rectangle-overlap](https://github.com/Ndroid21/leetcode/tree/master/0836-rectangle-overlap) |
+| [0887-super-egg-drop](https://github.com/Ndroid21/leetcode/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/Ndroid21/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ndroid21/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/Ndroid21/leetcode/tree/master/1927-sum-game) |
@@ -243,6 +245,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ndroid21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ndroid21/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Ndroid21/leetcode/tree/master/0704-binary-search) |
+| [0887-super-egg-drop](https://github.com/Ndroid21/leetcode/tree/master/0887-super-egg-drop) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ndroid21/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ndroid21/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ndroid21/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
